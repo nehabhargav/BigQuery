@@ -9,3 +9,10 @@ Important Information:
 (1)  BigQuery is a Google Cloud service.
 (2) The data used in this project is CoVID-19 Data in CSV file format. It contains 100,000 rows of COVID cases.
 (3) The data set is taken from the website humdata.org
+
+
+Steps:
+1. Sign in to your google account
+2. Go To your Google Cloud Platform -> Create New project -> Project Name -> Create.
+3.
+
