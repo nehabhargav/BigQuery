@@ -7,3 +7,5 @@ Here you'll find all the insights about the course and all my learning.
 Important Information:
 
 (1)  BigQuery is a Google Cloud service.
+(2) The data used in this project is CoVID-19 Data in CSV file format. It contains 100,000 rows of COVID cases.
+(3) The data set is taken from the website humdata.org
