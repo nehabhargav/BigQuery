@@ -128,9 +128,20 @@ Fig 9. Tree Map
 
 
 (7) ** Sharing & Creating Reports **
-
 -> Save Visualization
 -> Share and add it to your report.
+
+
+
+
+
+![report](https://user-images.githubusercontent.com/53258421/162987697-3e3bc06b-db7b-477b-a5eb-b1b2b9b35d98.png)
+
+Fig 10. Creating Analysis report. 
+
+
+
+
 
 
 
