@@ -23,11 +23,15 @@ Task 5 - Saving reports, sharing and wrap-up.
 2. Go To your Google Cloud Platform -> Create New project -> Project Name -> Create.
 3. To create a Query -> click Query -> Add your query 
            
-           xxxxxxxxxx
-Select location,data, new_cases
+----------(Query 1)----------
+           
+Select location, data, new_cases
+
 from 'coursera-bigquery.coviddataset.covidtable'
+
 LIMIT 1000
-           xxxxxxxxxx
+
+----------(Query 2)----------
            
 Select location,data, new_cases
 from 'coursera-bigquery.coviddataset.covidtable'
