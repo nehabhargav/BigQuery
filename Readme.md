@@ -89,9 +89,11 @@ Visualising Steps:
 
 
 -> Click on Explore data 
--> we are going to visualise it using location & new cases 
+
+-> We are going to visualise it using location & new cases 
 
 ![lcases](https://user-images.githubusercontent.com/53258421/162981449-ae869b99-88c0-41da-bdef-4bf5c84fdfde.png)
+
 Fig 4. Take Locations and new cases.
 
 
@@ -100,7 +102,29 @@ Fig 4. Take Locations and new cases.
 
 
 ->Then to Dimensions Add locations and to Metric add new_cases , new deaths
-->We will be visialising it using Pie Chart, Column chart, Tree maps
+
+-> We will be visualising it using Pie Chart, Column chart, Tree maps.
+
+![barplot1](https://user-images.githubusercontent.com/53258421/162983400-3c2e01d2-50b5-4400-b045-345a877b865a.png)
+
+Fig 5. Barplot
+
+![barplot2](https://user-images.githubusercontent.com/53258421/162983513-cbc45757-0f96-46f4-b489-40cb3b03f446.png)
+
+Fig 6. BArplot2
+
+![bubblechart](https://user-images.githubusercontent.com/53258421/162983622-99869fbc-625b-4fda-af03-1c4e7cfee090.png)
+
+Fig 7. Bubblechart
+
+
+![piechart](https://user-images.githubusercontent.com/53258421/162983696-cc123b72-7203-4127-9067-d44a7e8dbaf8.png)
+
+Fig 8. Pie Chart
+
+![treemap](https://user-images.githubusercontent.com/53258421/162983758-723bb2d1-cfd4-4002-8e2c-6168af18c10a.png)
+
+Fig 9. Tree Map
 
 
 
