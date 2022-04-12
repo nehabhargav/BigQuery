@@ -31,6 +31,17 @@ from 'coursera-bigquery.coviddataset.covidtable'
 
 LIMIT 1000
 
+![ss1](https://user-images.githubusercontent.com/53258421/162977208-25d2fffc-f5fd-467d-ad47-63849f5e7f74.png)
+
+Fig 1. Writing the SQL query in BigQuery
+
+
+
+
+![ss1](https://user-images.githubusercontent.com/53258421/162977219-60be41ea-9485-4561-a230-3a89dd85b632.png)
+
+Fig 2. The result of the Query
+
 ----------(Query 2)----------
            
 Select location,data, new_cases
