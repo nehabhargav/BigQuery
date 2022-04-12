@@ -44,9 +44,8 @@ from 'coursera-bigquery.coviddataset.covidtable'
 GROUP BY location
 LIMIT 1000
 
-//Here we sum of new_cases for each location //
-//[![Screenshot 2022-04-12 at 1 40 36 PM](https://github.com/nehabhargav/BigQuery/issues/3#issue-1201795674)](url)
-![](/images/image1)
+//Here we sum of new_cases for each location
+![](images/image1.png)
 
 
 The result generated thus is summoned as Views.
