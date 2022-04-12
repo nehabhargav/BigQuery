@@ -45,8 +45,8 @@ GROUP BY location
 LIMIT 1000
 
 //Here we sum of new_cases for each location
-![](images/image1.png)
-
+![](image1.png)
+<img src="images/image1.png" width="500" /> ![](images/image1.png)
 
 The result generated thus is summoned as Views.
 Therefore by querying our table we created views. You can also save your views.
