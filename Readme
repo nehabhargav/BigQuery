@@ -1,7 +1,7 @@
 Hi !
 
 This is a coursera guided  project by Ikechukwu Ogbuchi on BigQuery which actually works on BigData and performs visualizations.
-Here you'll find all the insights about the course and all my learning. 
+Here you'll find all the insights about the course along with my learning. 
 
 
 Important Information:
@@ -9,22 +9,23 @@ Important Information:
 (1)  BigQuery is a Google Cloud service.
 (2) The data used in this project is CoVID-19 Data in CSV file format. It contains 100,000 rows of COVID cases.
 (3) The data set is taken from the website humdata.org
+(4)Course Outcomes:
 
+Task 1 - Project Overview - Working with BigQuery.
+Task 2 - Navigating and Getting your Data into BigQuery.
+Task 3 - Running SQL Queries with BigQuery.
+Task 4 - Visualizing Big Data with BigQuery.
+Task 5 - Saving reports, sharing and wrap-up.
 
-Steps:
+(5) Steps:
+
 1. Sign in to your google account
 2. Go To your Google Cloud Platform -> Create New project -> Project Name -> Create.
 3.
 
 
 
-Course Outcomes:
 
-Task 1 - Project Overview - Working with BigQuery
-Task 2 - Navigating and Getting your Data into BigQuery
-Task 3 - Running SQL Queries with BigQuery
-Task 4 - Visualizing Big Data with BigQuery
-Task 5 - Saving reports, sharing and wrap-up.
 
 
 
