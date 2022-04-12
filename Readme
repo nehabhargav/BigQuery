@@ -45,7 +45,8 @@ GROUP BY location
 LIMIT 1000
 
 //Here we sum of new_cases for each location //
-https://github.com/nehabhargav/BigQuery/blob/main/screenshots/Screenshot%202022-04-12%20at%201.40.36%20PM.png
+
+![](images/screenshots Screenshot%202022-04-12%20at%201.40.36%20PM.png)
          
            
       
