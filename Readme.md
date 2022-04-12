@@ -1,14 +1,3 @@
-[
-![show](https://user-images.githubusercontent.com/53258421/162970967-6db9ed20-6b29-4f28-93bd-8af1fc5061eb.png)
-](url)
-
-
-
-![Screenshot 2022-04-12 at 1 38 22 PM](https://user-images.githubusercontent.com/53258421/162971812-cb4f7898-4345-465a-a4c9-517747f6f528.png)
-
-
-
-
 Hi !
 
 This is a coursera guided  project by Ikechukwu Ogbuchi on BigQuery which actually works on BigData and performs visualizations.
