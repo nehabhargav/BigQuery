@@ -144,6 +144,9 @@ Fig 10. Creating Analysis report.
 
 <h1>Conclusion</h1>
 
+1. BigQuery is a fully-managed, serverless data warehouse that enables scalable analysis. 
+2. These task provided an insight for Google Cloud platform which makes handling large dataset, querying and analysing very quick & in an efficient manner. 
+3. It also helps to creat many views , save it and then use it for further reports.
 
 
 
