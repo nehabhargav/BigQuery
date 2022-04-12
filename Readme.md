@@ -3,10 +3,10 @@ Hi !
 This is a coursera guided  project by Ikechukwu Ogbuchi on BigQuery which actually works on BigData and performs visualizations.
 Here you'll find all the insights about the course along with my learning. 
 
-
+BigQuery Autodetects schema and input parameters
 Important Information:
 
-(1)  BigQuery is a Google Cloud service uses Google Cloud Platform.
+(1)  BigQuery is a Google Cloud service uses Google Cloud Platform. BigQuery Autodetects schema and input parameters
 (2) The data used in this project is CoVID-19 Data in CSV file format. It contains 100,000 rows of COVID cases.
 (3) The data set is taken from the website humdata.org
 (4)Course Outcomes:
