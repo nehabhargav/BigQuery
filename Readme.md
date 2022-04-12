@@ -31,62 +31,78 @@ from 'coursera-bigquery.coviddataset.covidtable'
 
 LIMIT 1000
 
-![ss1](https://user-images.githubusercontent.com/53258421/162977208-25d2fffc-f5fd-467d-ad47-63849f5e7f74.png)
+ 
+![ss1result](https://user-images.githubusercontent.com/53258421/162979192-b70453cf-b695-4f05-926c-d1d012fc36b8.png)
 
-Fig 1. Writing the SQL query in BigQuery
-
-
-
-
-![ss1](https://user-images.githubusercontent.com/53258421/162977219-60be41ea-9485-4561-a230-3a89dd85b632.png)
-
-Fig 2. The result of the Query
+Fig 1. The result of the Query 1
 
 ----------(Query 2)----------
            
 Select location,data, new_cases
+
 from 'coursera-bigquery.coviddataset.covidtable'
+
 WHERE date="2020-02-13"
+
 LIMIT 1000
 
-//Here we get all the cases from all the locations for the specified date mentioned in the Where statement.//
+![ss1](https://user-images.githubusercontent.com/53258421/162978189-8814fef1-6be5-4bf4-abed-d8d7eaf805c1.png)
 
-          xxxxxxxxxx
+
+Fig 2. Writing the SQL query in BigQuery ( We obtain all cases from all locations for specified date mentioned in the Where Clause)
+
+----------(Query 3)----------
           
            
 Select location,sum(new_cases) AS total_new_cases
+
 from 'coursera-bigquery.coviddataset.covidtable'
+
 GROUP BY location
+
 LIMIT 1000
 
-//Here we sum of new_cases for each location
-![](image1.png)
-<img src="images/image1.png" width="500" /> ![](images/image1.png)
+
+![sumquery](https://user-images.githubusercontent.com/53258421/162979643-104157d4-fee5-4973-b366-856ca2cf403f.jpg)
+Fig 3. Sum of new_cases for each location
+
+
 
 The result generated thus is summoned as Views.
-Therefore by querying our table we created views. You can also save your views.
+Therefore by querying our table we created downloadable Views.
 
-
-
+----------------------------------------------------
 
 
 (6) Here we will work on out Task 4 - Visualizing Big Data with BigQuery
 
-
-
-Query
+----------(Query 4)----------
 
 Select *
-from 'coursera-bigquery.coviddataset.covidtable'.  #your entire data is visible now
+
+from 'coursera-bigquery.coviddataset.covidtable'  #your entire data is visible now
+
+------------------------------
 
 Visualising Steps:
 
 
-Click on Explore data 
-we are going to visualise it using location and new cases 
-Then to Dimensions Add locations 
-and to Metric add new_cases , new deaths
-We will be visialising it using Pie Chart, Column chart, Tree maps
+-> Click on Explore data 
+-> we are going to visualise it using location & new cases 
+
+![lcases](https://user-images.githubusercontent.com/53258421/162981449-ae869b99-88c0-41da-bdef-4bf5c84fdfde.png)
+Fig 4. Take Locations and new cases.
+
+
+
+
+
+
+->Then to Dimensions Add locations and to Metric add new_cases , new deaths
+->We will be visialising it using Pie Chart, Column chart, Tree maps
+
+
+
 
 
 
