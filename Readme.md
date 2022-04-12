@@ -127,6 +127,11 @@ Fig 8. Pie Chart
 Fig 9. Tree Map
 
 
+(7) ** Sharing & Creating Reports **
+
+-> Save Visualization
+-> Share and add it to your report.
+
 
 
 
