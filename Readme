@@ -45,8 +45,11 @@ GROUP BY location
 LIMIT 1000
 
 //Here we sum of new_cases for each location //
+[
+![Screenshot 2022-04-12 at 1 40 36 PM](https://user-images.githubusercontent.com/53258421/162965011-c17dfc49-46ea-4395-
+bc01-90f5527d1998.png)
+](url)
 
-![Screenshot 2022-04-12 at 1 24 26 PM](https://user-images.githubusercontent.com/53258421/162955022-9c332958-78cd-49f5-b69c-fff4503a1a07.png)
 
 The result generated thus is summoned as Views.
 Therefore by querying our table we created views. You can also save your views.
