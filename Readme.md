@@ -83,9 +83,9 @@ Select *
 
 from 'coursera-bigquery.coviddataset.covidtable'  #your entire data is visible now
 
-------------------------------
+-----------------------------------------------------
 
-Visualising Steps:
+**Visualization Steps:**
 
 
 -> Click on Explore data 
