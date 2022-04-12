@@ -48,7 +48,38 @@ LIMIT 1000
 
 ![Screenshot 2022-04-12 at 1 24 26 PM](https://user-images.githubusercontent.com/53258421/162955022-9c332958-78cd-49f5-b69c-fff4503a1a07.png)
 
-         
+The result generated thus is summoned as Views.
+Therefore by querying our table we created views. You can also save your views.
+
+
+
+
+
+(6) Here we will work on out Task 4 - Visualizing Big Data with BigQuery
+
+
+
+Query
+
+Select *
+from 'coursera-bigquery.coviddataset.covidtable'.  #your entire data is visible now
+
+Visualising Steps:
+
+
+Click on Explore data 
+we are going to visualise it using location and new cases 
+Then to Dimensions Add locations 
+and to Metric add new_cases , new deaths
+We will be visialising it using Pie Chart, Column chart, Tree maps
+
+
+
+
+
+
+
+
            
       
 
