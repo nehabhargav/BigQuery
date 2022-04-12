@@ -64,6 +64,7 @@ LIMIT 1000
 
 
 ![sumquery](https://user-images.githubusercontent.com/53258421/162979643-104157d4-fee5-4973-b366-856ca2cf403f.jpg)
+
 Fig 3. Sum of new_cases for each location
 
 
